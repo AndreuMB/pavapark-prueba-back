@@ -39,4 +39,9 @@ export class SensorsController {
   remove(@Param('id') id: string) {
     return this.sensorsService.remove(id);
   }
+
+  @Post(':id/ingest')
+  async ingest(@Param('id') id: string) {
+    return this.sensorsService.ingestNow(id);
+  }
 }
