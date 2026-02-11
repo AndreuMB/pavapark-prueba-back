@@ -1,4 +1,12 @@
-import { IsBoolean, IsInt, IsString } from 'class-validator';
+import {
+  IsBoolean,
+  IsEnum,
+  IsInt,
+  IsOptional,
+  IsString,
+  IsUrl,
+} from 'class-validator';
+import { SensorType } from '../schemas/sensor.schema';
 
 export class CreateSensorDto {
   @IsString()
@@ -6,6 +14,13 @@ export class CreateSensorDto {
 
   @IsInt()
   sensorCode: string;
+
+  @IsEnum(SensorType)
+  type: SensorType;
+
+  @IsUrl()
+  @IsOptional()
+  url: string;
 
   @IsBoolean()
   sttatus: boolean;
