@@ -3,7 +3,6 @@ import { CreateSensorDto } from './dto/create-sensor.dto';
 import { UpdateSensorDto } from './dto/update-sensor.dto';
 import { Sensor } from './schemas/sensor.schema';
 import { InjectModel } from '@nestjs/mongoose';
-import { User } from 'src/users/schemas/user.schema';
 import { Model } from 'mongoose';
 
 @Injectable()
@@ -22,15 +21,37 @@ export class SensorsService {
     return this.sensorModel.find().exec();
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} sensor`;
+  async findOne(id: string) {
+    const sensor = await this.sensorModel.findById(id);
+
+    if (!sensor) {
+      throw new Error(`Sensor with id ${id} not found`);
+    }
+
+    return sensor;
   }
 
-  update(id: number, updateSensorDto: UpdateSensorDto) {
-    return `This action updates a #${id} sensor`;
+  async update(id: string, updateSensorDto: UpdateSensorDto) {
+    const sensor = await this.sensorModel.findByIdAndUpdate(
+      id,
+      updateSensorDto,
+      { new: true, runValidators: true },
+    );
+
+    if (!sensor) {
+      throw new Error(`Sensor with id ${id} not found`);
+    }
+
+    return sensor;
   }
 
-  remove(id: number) {
-    return `This action removes a #${id} sensor`;
+  async remove(id: string) {
+    const sensor = await this.sensorModel.findByIdAndDelete(id);
+
+    if (!sensor) {
+      throw new Error(`Sensor with id ${id} not found`);
+    }
+
+    return sensor;
   }
 }

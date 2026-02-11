@@ -10,12 +10,14 @@ export enum SensorType {
 export class Sensor extends Document {
   @Prop({
     required: true,
+    minLength: 3,
   })
   name: string;
 
   @Prop({
     required: true,
     unique: true,
+    minLength: 3,
   })
   sensorCode: string;
 
