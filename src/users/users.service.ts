@@ -5,12 +5,14 @@ import { User } from './schemas/user.schema';
 import { CreateUserDto } from './dto/create-user.dto';
 import * as bcrypt from 'bcrypt';
 import { LoginDto } from './dto/login.dto';
+import { JwtService } from '@nestjs/jwt';
 
 @Injectable()
 export class UsersService {
   constructor(
     @InjectModel(User.name)
     private userModel: Model<User>,
+    private jwtService: JwtService,
   ) {}
 
   async findAll(): Promise<User[]> {
@@ -43,17 +45,17 @@ export class UsersService {
       throw new UnauthorizedException('Invalid credentials');
     }
 
-    // return { pas1: loginDto.password, pass2: user.password };
+    // Generar JWT
+    const payload = { email: user.email, sub: user._id };
+    console.log(payload);
+    console.log(process.env.JWT_SECRET);
+    const token = this.jwtService.sign(payload);
 
-    // if (loginDto.password != user.password) {
-    //   throw new UnauthorizedException('Invalid credentials');
-    // }
-
-    // ✅ Login successful
     return {
       message: 'Login successful',
       email: user.email,
-      password: user.password,
+      // password: user.password,
+      token,
     };
   }
 }

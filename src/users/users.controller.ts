@@ -1,11 +1,25 @@
-import { Body, Controller, Get, Post, Query } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Get,
+  Post,
+  Query,
+  Req,
+  Res,
+  UnauthorizedException,
+} from '@nestjs/common';
 import { UsersService } from './users.service';
 import { CreateUserDto } from './dto/create-user.dto';
 import { LoginDto } from './dto/login.dto';
+import type { Request, Response } from 'express';
+import { JwtService } from '@nestjs/jwt';
 
 @Controller('users')
 export class UsersController {
-  constructor(private readonly usersService: UsersService) {}
+  constructor(
+    private readonly usersService: UsersService,
+    private readonly jwtService: JwtService,
+  ) {}
 
   @Get()
   findAll() {
@@ -23,7 +37,32 @@ export class UsersController {
   }
 
   @Post('login')
-  login(@Body() loginDto: LoginDto) {
-    return this.usersService.login(loginDto);
+  async login(
+    @Res({ passthrough: true }) response: Response,
+    @Body() loginDto: LoginDto,
+  ) {
+    const result = await this.usersService.login(loginDto);
+    response.cookie('token', result.token, {
+      httpOnly: true,
+    });
+
+    return { email: result.email };
+  }
+
+  @Get('me')
+  me(@Req() req: Request) {
+    const token = req.cookies['token'];
+
+    if (!token) {
+      throw new UnauthorizedException();
+    }
+
+    const payload = this.jwtService.verify(token);
+
+    console.log({ payload });
+
+    return {
+      user: payload,
+    };
   }
 }

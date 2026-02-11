@@ -1,10 +1,10 @@
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
 
-export enum SensorType {
-  HTTP_POLL = 'HTTP_POLL',
-  MANUAL_UPLOAD = 'MANUAL_UPLOAD',
-}
+// export enum SensorType {
+//   HTTP_POLL = 'HTTP_POLL',
+//   MANUAL_UPLOAD = 'MANUAL_UPLOAD',
+// }
 
 @Schema({ timestamps: true })
 export class Sensor extends Document {
