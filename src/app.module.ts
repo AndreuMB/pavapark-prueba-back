@@ -1,6 +1,4 @@
 import { Module } from '@nestjs/common';
-import { AppController } from './app.controller';
-import { AppService } from './app.service';
 import { MongooseModule } from '@nestjs/mongoose';
 import { UsersModule } from './users/users.module';
 import { ConfigModule } from '@nestjs/config';
@@ -17,7 +15,5 @@ import { MockModule } from './mock/mock.module';
     IngestionsModule,
     MockModule,
   ],
-  controllers: [AppController],
-  providers: [AppService],
 })
 export class AppModule {}
