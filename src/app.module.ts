@@ -6,6 +6,7 @@ import { UsersModule } from './users/users.module';
 import { ConfigModule } from '@nestjs/config';
 import { SensorsModule } from './sensors/sensors.module';
 import { IngestionsModule } from './ingestions/ingestions.module';
+import { MockModule } from './mock/mock.module';
 
 @Module({
   imports: [
@@ -14,6 +15,7 @@ import { IngestionsModule } from './ingestions/ingestions.module';
     UsersModule,
     SensorsModule,
     IngestionsModule,
+    MockModule,
   ],
   controllers: [AppController],
   providers: [AppService],

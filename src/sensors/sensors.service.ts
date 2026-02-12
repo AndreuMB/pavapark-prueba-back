@@ -86,13 +86,21 @@ export class SensorsService {
         //     valueC: 26,
         //   },
         // ];
-        const data = {
-          deviceId: '698d80c1dc6c175639f6a0a0',
-          data: [
-            { time: 1706600000, temp: 21.4 },
-            { time: 1706600000, temp: 21.4 },
-          ],
-        };
+        // const data = {
+        //   deviceId: '698d80c1dc6c175639f6a0a0',
+        //   data: [
+        //     { time: 1706600000, temp: 21.4 },
+        //     { time: 1706600000, temp: 21.4 },
+        //   ],
+        // };
+
+        const response = await fetch(sensor.url);
+
+        if (!response.ok) {
+          throw new Error('Error response ' + response.status);
+        }
+
+        const data = await response.json();
         const tempData: [] = this.getTempData(sensor, data);
 
         console.log(tempData);
