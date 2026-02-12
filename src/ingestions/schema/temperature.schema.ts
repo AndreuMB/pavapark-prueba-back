@@ -15,3 +15,6 @@ export class TemperatureReading extends Document {
 
 export const TemperatureReadingSchema =
   SchemaFactory.createForClass(TemperatureReading);
+
+// make unique sensorId + timestamp
+TemperatureReadingSchema.index({ sensorId: 1, timestamp: 1 }, { unique: true });

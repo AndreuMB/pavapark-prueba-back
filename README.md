@@ -10,8 +10,10 @@ mejorar tipado en general
 
 ingestions resource innecesario, solo ingestions.schema
 
-homogenizar y debatir importancia sensorCode o \_id
+homogenizar y debatir importancia sensorCode o id
 
 hacer la MANUAL_UPLOAD
 
-HTTP_POLL que coja los datos de una url real
+retornar errores claros en el mensaje de error de ingestions
+
+retornar más errores personalizados
