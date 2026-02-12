@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "698bad2e688cc282ed9a582e"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bad33688cc282ed9a5830"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bad34688cc282ed9a5832"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bad34688cc282ed9a5834"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bad34688cc282ed9a5836"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bad50688cc282ed9a5838"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bad51688cc282ed9a583a"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bad6c688cc282ed9a583e"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698badc8688cc282ed9a5840"
+  },
+  "email": "test@mail.co12m",
+  "password": "Test User 23",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698baeddd522e3575f8cadd3"
+  },
+  "email": "test@mail.com",
+  "password": "Test User",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bb45a860e0449a9b1f5ac"
+  },
+  "email": "test@mail.com",
+  "password": "Test User",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bb45b860e0449a9b1f5ae"
+  },
+  "email": "test@mail.com",
+  "password": "Test User",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bb48a860e0449a9b1f5b0"
+  },
+  "email": "test777@mail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bb4e9860e0449a9b1f5b7"
+  },
+  "email": "test777@mail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bb909de03aa146afd5192"
+  },
+  "email": "test777@mail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bb90dde03aa146afd5194"
+  },
+  "email": "test777@mail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bb930de03aa146afd5196"
+  },
+  "email": "test666@mail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bba14c1a485f1645a4522"
+  },
+  "email": "test666@mail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bba445f3eba2a8a6dde73"
+  },
+  "email": "test666@mail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bba475f3eba2a8a6dde75"
+  },
+  "email": "test666@mail.com",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bbb033f6777566018a721"
+  },
+  "email": "test666@mail.com",
+  "password": "$2b$10$.RRZxqXhrHj.BpvR5awpFuoCuo2dwUf7vRCrkFss.C/Qjw6o.OQbi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bbb4a1058fdf46a0015e2"
+  },
+  "email": "testh@mail.com",
+  "password": "$2b$10$WL3651TrBYRmCGSP0kg27OWy/9sdm1n1IsU2lzNwkbkTnEMBTwcG6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bcda7048ef2f31b1b1cc8"
+  },
+  "email": "testh@mail.com",
+  "password": "$2b$10$j0AD9qMaSuZhKPsDGMnNZe0rtICg2abhazOIX5Onun/jxtpK0nfaK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bfb5b0226ad13abf9d303"
+  },
+  "email": "testh@mail.com",
+  "password": "$2b$10$9GA20qAg7qAPpk0p0cHJzu949ixv9ZCQRbpMtpXexyDbkPVasA3GO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698bfd8d0031c53d0864b109"
+  },
+  "email": "testh@mail.com",
+  "password": "$2b$10$0qVnPnThNoYMGP8giEHU5eOI42pAQ9PZlhnzgYqLETaffd08lr/jm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cdab26527f96c57d01a19"
+  },
+  "email": "andreu@mail.com",
+  "password": "$2b$10$pM2ZWlO88tjHCLOpQYvKte0Cmub.eAxm0HXW2.ZYaOZMeIQI.nVLK",
+  "createdAt": {
+    "$date": "2026-02-11T19:38:26.877Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-11T19:38:26.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698da0e326fa45727cc4e507"
+  },
+  "email": "andreu2@mail.com",
+  "password": "$2b$10$AVpNfE4LyjVoAOhANZSzaulUxrV2GDRlI1BYa7vjaozxTtOZwCQdO",
+  "createdAt": {
+    "$date": "2026-02-12T09:44:03.943Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T09:44:03.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698da0e426fa45727cc4e509"
+  },
+  "email": "andreu2@mail.com",
+  "password": "$2b$10$wzkkPr3ZUV9ICo9Up8KqJOLaor2uU2DoAWQURnNuOh2g7zWwCbniG",
+  "createdAt": {
+    "$date": "2026-02-12T09:44:04.864Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T09:44:04.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698da3ab26fa45727cc4e517"
+  },
+  "email": "testh777@mail.com",
+  "password": "$2b$10$l8kQ5nIt103VJKbC54Bn7uNY5JruljkxJm0sU3ubejxxYF2NaEC16",
+  "createdAt": {
+    "$date": "2026-02-12T09:55:55.132Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T09:55:55.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698da3f126fa45727cc4e522"
+  },
+  "email": "andreu2@mail.com",
+  "password": "$2b$10$E6X9VREeZFhVdqP2u6//Qud5Krh5WD1ziZeSPWemsX1gYXD0ZC1o6",
+  "createdAt": {
+    "$date": "2026-02-12T09:57:05.633Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T09:57:05.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698da77daa67c9e731faf8fa"
+  },
+  "email": "andreu2@mail.com",
+  "password": "$2b$10$.eiIujQ0pPjPMPhArEHxOuom0wwGlSGaRTYWf9bCIlJVchnrGUR.S",
+  "createdAt": {
+    "$date": "2026-02-12T10:12:13.802Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T10:12:13.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698da996f69b4c4bfa732399"
+  },
+  "email": "andreu2@mail.com",
+  "password": "$2b$10$nztWeOHjYtXWHXb7.JYld.weptRXJh1K.9PeGq4ShI1Cm9XeChJta",
+  "createdAt": {
+    "$date": "2026-02-12T10:21:10.497Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T10:21:10.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698daacd8ab43d8fd981c36b"
+  },
+  "email": "wooooo@mail.com",
+  "password": "$2b$10$GH/pTY1D0f08oQjGsLjpkuv6RtSzk.37pwEl5HMMNoRpKVWoSXne6",
+  "createdAt": {
+    "$date": "2026-02-12T10:26:21.313Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T10:26:21.313Z"
+  },
+  "__v": 0
+}]

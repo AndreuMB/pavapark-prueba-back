@@ -1,0 +1,682 @@
+[{
+  "_id": {
+    "$oid": "698cf5b9cb5f2c7a330bfd5a"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cf5db1ec61fc76cdbca52"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cf5db1ec61fc76cdbca51"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cf69dd48057c1af9a9f10"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cf69dd48057c1af9a9f11"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d76b1541d7294ee9a298f"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d76b1541d7294ee9a2990"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d77953096458ee4476e39"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d77953096458ee4476e3a"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d77963096458ee4476e41"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d77963096458ee4476e42"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d77973096458ee4476e4a"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d77973096458ee4476e49"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d88f28e80abcc8b4db69c"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d88f58e80abcc8b4db6a3"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8907f1e35dce88971bdd"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8907f1e35dce88971bde"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e00d40b887de7d7ee51"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e00d40b887de7d7ee52"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e0cd40b887de7d7ee5a"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e0cd40b887de7d7ee5b"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e218311ca073f53a61a"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e218311ca073f53a61b"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e238311ca073f53a623"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e238311ca073f53a624"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e248311ca073f53a62d"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e248311ca073f53a62c"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e258311ca073f53a635"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e258311ca073f53a636"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e268311ca073f53a63f"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e268311ca073f53a63e"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e268311ca073f53a647"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e268311ca073f53a648"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e278311ca073f53a651"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e278311ca073f53a650"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e298311ca073f53a65a"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e298311ca073f53a659"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e2c8311ca073f53a663"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e2c8311ca073f53a662"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e2c8311ca073f53a66c"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e2c8311ca073f53a66b"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e2d8311ca073f53a675"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e2d8311ca073f53a674"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e2d8311ca073f53a67d"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e2d8311ca073f53a67e"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e318311ca073f53a687"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e318311ca073f53a686"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e328311ca073f53a690"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e328311ca073f53a68f"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e338311ca073f53a699"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e338311ca073f53a698"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e4ad5ff80f7db13b645"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e4ad5ff80f7db13b646"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e4cd5ff80f7db13b64f"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e4cd5ff80f7db13b64e"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e4fd5ff80f7db13b657"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e4fd5ff80f7db13b658"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2026-01-30T10:00:00.000Z"
+  },
+  "valueC": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e618edb5d89cd242042"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e618edb5d89cd242043"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e638edb5d89cd24204b"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8e638edb5d89cd24204c"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2024-01-30T07:33:20.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d9801d898c8f2cd4a68bc"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "timestamp": {
+    "$date": "2026-02-12T09:06:09.000Z"
+  },
+  "valueC": 21.4,
+  "__v": 0
+}]

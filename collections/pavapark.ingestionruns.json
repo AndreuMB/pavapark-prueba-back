@@ -1,0 +1,1083 @@
+[{
+  "_id": {
+    "$oid": "698cf343b0df5629a635036d"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:23:15.063Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-11T21:23:15.096Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698cf3a0a9420c77bc42c039"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:24:48.621Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-11T21:24:48.655Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698cf3a5a9420c77bc42c03d"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:24:53.205Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-11T21:24:53.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698cf3b87566db7903e9aba5"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:25:12.758Z"
+  },
+  "status": "running",
+  "recordsProcessed": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cf3bd7566db7903e9aba8"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:25:17.044Z"
+  },
+  "status": "running",
+  "recordsProcessed": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cf40842adeef9ea26cc25"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:26:32.169Z"
+  },
+  "status": "running",
+  "recordsProcessed": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cf5b9cb5f2c7a330bfd58"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:33:45.077Z"
+  },
+  "status": "success",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-11T21:33:45.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698cf5db1ec61fc76cdbca4f"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:34:19.618Z"
+  },
+  "status": "success",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-11T21:34:19.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698cf69dd48057c1af9a9f0e"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-11T21:37:33.558Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-11T21:37:33.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d76b1541d7294ee9a298d"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T06:44:01.927Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T06:44:01.968Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d775253e1270a9660d6f8"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "startedAt": {
+    "$date": "2026-02-12T06:46:42.410Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T06:46:42.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d775353e1270a9660d6fc"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "startedAt": {
+    "$date": "2026-02-12T06:46:43.463Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T06:46:43.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d775453e1270a9660d700"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "startedAt": {
+    "$date": "2026-02-12T06:46:44.385Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T06:46:44.416Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d775553e1270a9660d704"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "startedAt": {
+    "$date": "2026-02-12T06:46:45.342Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T06:46:45.373Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d77953096458ee4476e37"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "startedAt": {
+    "$date": "2026-02-12T06:47:49.340Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T06:47:49.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d77963096458ee4476e3f"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "startedAt": {
+    "$date": "2026-02-12T06:47:50.705Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T06:47:50.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d77973096458ee4476e47"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "startedAt": {
+    "$date": "2026-02-12T06:47:51.542Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T06:47:51.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d87446090b8d075ad8686"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T07:54:44.499Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T07:54:44.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d87486090b8d075ad868b"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T07:54:48.124Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T07:54:48.155Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d881cd34d1d72c8fdadda"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T07:58:20.122Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T07:58:20.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d881ed34d1d72c8fdaddf"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T07:58:22.709Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T07:58:22.740Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8898c8d49a14ad24c3aa"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T08:00:24.743Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T08:00:24.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8899c8d49a14ad24c3af"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T08:00:25.924Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T08:00:25.955Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d88aa5eb2cfb0d9ac5734"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:00:42.732Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T08:00:42.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d88f28e80abcc8b4db69a"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:01:54.454Z"
+  },
+  "status": "success",
+  "recordsProcessed": 1,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:01:54.493Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d88f58e80abcc8b4db6a1"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:01:57.110Z"
+  },
+  "status": "success",
+  "recordsProcessed": 1,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:01:57.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8907f1e35dce88971bdb"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:02:15.329Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:02:15.366Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8d78f1e35dce88971bf0"
+  },
+  "sensorId": "698ca18698d2d28dfc820bd1",
+  "startedAt": {
+    "$date": "2026-02-12T08:21:12.341Z"
+  },
+  "status": "running",
+  "recordsProcessed": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d8d82abd3b09f605b6784"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:21:22.121Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T08:21:22.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8dbc6aec0ef4b34179d3"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:22:20.363Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T08:22:20.400Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8dca6aec0ef4b34179d8"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:22:34.799Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T08:22:34.831Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8de8c8236ba5061f1fbb"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:23:04.037Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T08:23:04.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e00d40b887de7d7ee4f"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:23:28.502Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:23:28.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e0cd40b887de7d7ee58"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:23:40.850Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:23:40.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e218311ca073f53a618"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:01.205Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:01.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e238311ca073f53a621"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:03.459Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:03.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e248311ca073f53a62a"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:04.584Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:04.618Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e258311ca073f53a633"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:05.401Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:05.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e268311ca073f53a63c"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:06.045Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:06.079Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e268311ca073f53a645"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:06.881Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:06.915Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e278311ca073f53a64e"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:07.761Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:07.795Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e298311ca073f53a657"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:09.735Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:09.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e2c8311ca073f53a660"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:12.055Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:12.089Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e2c8311ca073f53a669"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:12.641Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:12.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e2d8311ca073f53a672"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:13.237Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:13.270Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e2d8311ca073f53a67b"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:13.867Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:13.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e318311ca073f53a684"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:17.301Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:17.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e328311ca073f53a68d"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:18.669Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:18.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e338311ca073f53a696"
+  },
+  "sensorId": "698cadca339621e6a29ec9f1",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:19.751Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:19.785Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e3e8311ca073f53a6a3"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:30.252Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:30.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e4ad5ff80f7db13b643"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:42.619Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:42.656Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e4cd5ff80f7db13b64c"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:44.332Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:44.367Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e4fd5ff80f7db13b655"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T08:24:47.439Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:24:47.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e618edb5d89cd242040"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T08:25:05.420Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:25:05.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8e638edb5d89cd242049"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T08:25:07.147Z"
+  },
+  "status": "success",
+  "recordsProcessed": 2,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T08:25:07.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d8eb78edb5d89cd242058"
+  },
+  "sensorId": "698cae7c5a2668d20ff48ca6",
+  "startedAt": {
+    "$date": "2026-02-12T08:26:31.691Z"
+  },
+  "status": "running",
+  "recordsProcessed": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d979f2c28b820fdde8a12"
+  },
+  "sensorId": "698caeb35a2668d20ff48cac",
+  "startedAt": {
+    "$date": "2026-02-12T09:04:31.635Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Unexpected token '<', \"<!doctype \"... is not valid JSON",
+  "finishedAt": {
+    "$date": "2026-02-12T09:04:31.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d97f22c28b820fdde8a1f"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T09:05:54.768Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T09:05:54.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d97fc758e1c978a508b49"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T09:06:04.595Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Sensor code mismatch",
+  "finishedAt": {
+    "$date": "2026-02-12T09:06:04.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698d9801d898c8f2cd4a68ba"
+  },
+  "sensorId": "698d80c1dc6c175639f6a0a0",
+  "startedAt": {
+    "$date": "2026-02-12T09:06:09.429Z"
+  },
+  "status": "success",
+  "recordsProcessed": 1,
+  "__v": 0,
+  "finishedAt": {
+    "$date": "2026-02-12T09:06:09.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad0dd6e20dd5e74841ab"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T10:35:57.707Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Failed to parse URL from true",
+  "finishedAt": {
+    "$date": "2026-02-12T10:35:57.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad0dd6e20dd5e74841b0"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T10:35:57.867Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Failed to parse URL from true",
+  "finishedAt": {
+    "$date": "2026-02-12T10:35:57.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad0ed6e20dd5e74841b5"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T10:35:58.664Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Failed to parse URL from true",
+  "finishedAt": {
+    "$date": "2026-02-12T10:35:58.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad0fd6e20dd5e74841ba"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T10:35:59.323Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Failed to parse URL from true",
+  "finishedAt": {
+    "$date": "2026-02-12T10:35:59.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad0fd6e20dd5e74841bf"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T10:35:59.476Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Failed to parse URL from true",
+  "finishedAt": {
+    "$date": "2026-02-12T10:35:59.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad18d6e20dd5e74841c4"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T10:36:08.090Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Failed to parse URL from true",
+  "finishedAt": {
+    "$date": "2026-02-12T10:36:08.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad18d6e20dd5e74841c9"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T10:36:08.851Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Failed to parse URL from true",
+  "finishedAt": {
+    "$date": "2026-02-12T10:36:08.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad19d6e20dd5e74841ce"
+  },
+  "sensorId": "698cae775a2668d20ff48ca4",
+  "startedAt": {
+    "$date": "2026-02-12T10:36:09.015Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Failed to parse URL from true",
+  "finishedAt": {
+    "$date": "2026-02-12T10:36:09.046Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad1fd6e20dd5e74841db"
+  },
+  "sensorId": "698d80c7dc6c175639f6a0b2",
+  "startedAt": {
+    "$date": "2026-02-12T10:36:15.371Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Unexpected token '<', \"<!doctype \"... is not valid JSON",
+  "finishedAt": {
+    "$date": "2026-02-12T10:36:15.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dad20d6e20dd5e74841e0"
+  },
+  "sensorId": "698d80c7dc6c175639f6a0b2",
+  "startedAt": {
+    "$date": "2026-02-12T10:36:16.288Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Unexpected token '<', \"<!doctype \"... is not valid JSON",
+  "finishedAt": {
+    "$date": "2026-02-12T10:36:16.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "698dae8dd6e20dd5e74841e5"
+  },
+  "sensorId": "698d80c7dc6c175639f6a0b2",
+  "startedAt": {
+    "$date": "2026-02-12T10:42:21.806Z"
+  },
+  "status": "error",
+  "recordsProcessed": 0,
+  "__v": 0,
+  "errorMessage": "Unexpected token '<', \"<!doctype \"... is not valid JSON",
+  "finishedAt": {
+    "$date": "2026-02-12T10:42:21.846Z"
+  }
+}]

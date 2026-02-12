@@ -1,0 +1,236 @@
+[{
+  "_id": {
+    "$oid": "698ca18698d2d28dfc820bd1"
+  },
+  "name": "teassmu",
+  "sensorCode": "12344",
+  "type": "MANUAL_UPLOAD",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-11T15:34:30.648Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-11T15:34:30.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cadca339621e6a29ec9f1"
+  },
+  "name": "sensor name",
+  "sensorCode": "12311231223",
+  "type": "HTTP_POLL",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-11T16:26:50.034Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-11T16:26:50.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cae775a2668d20ff48ca4"
+  },
+  "name": "senssornamenew",
+  "sensorCode": "sensoernewcode12",
+  "type": "HTTP_POLL",
+  "url": "true",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-11T16:29:43.140Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-11T16:29:43.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698cae7c5a2668d20ff48ca6"
+  },
+  "name": "senssornamenew",
+  "sensorCode": "sensoernewcod1e12",
+  "type": "MANUAL_UPLOAD",
+  "url": "true",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-11T16:29:48.894Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-11T16:29:48.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698caeb35a2668d20ff48cac"
+  },
+  "name": "senssornamenew",
+  "sensorCode": "sensoerne12wcod1e12123",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:5173/createSensor",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-11T16:30:43.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-11T19:22:48.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d80c1dc6c175639f6a0a0"
+  },
+  "name": "aasdfa",
+  "sensorCode": "hiIamacode",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:3000/api/mock/temp-format-b",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T07:26:57.983Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T09:05:45.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d80c5dc6c175639f6a0b0"
+  },
+  "name": "aasdfa",
+  "sensorCode": "hiIamacode1",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:5173/createSensor",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T07:27:01.670Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T07:27:01.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d80c7dc6c175639f6a0b2"
+  },
+  "name": "aasdfa",
+  "sensorCode": "hiIamacode13",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:5173/createSensor",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T07:27:03.791Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T07:27:03.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d80c9dc6c175639f6a0b4"
+  },
+  "name": "aasdfa",
+  "sensorCode": "hiIamacode132",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:5173/createSensor",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T07:27:05.337Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T07:27:05.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d80ccdc6c175639f6a0b8"
+  },
+  "name": "aasdfa",
+  "sensorCode": "41hiIama2code132",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:5173/createSensor",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T07:27:08.660Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T07:27:08.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d80d4dc6c175639f6a0c2"
+  },
+  "name": "aasdfa",
+  "sensorCode": "41hiIam1321232123",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:5173/createSensor",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T07:27:16.727Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T07:27:16.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d80dadc6c175639f6a0c4"
+  },
+  "name": "aasdfa",
+  "sensorCode": "wiii",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:5173/createSensor",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T07:27:22.866Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T07:27:22.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698d80dddc6c175639f6a0c8"
+  },
+  "name": "aasdfa",
+  "sensorCode": "wiiiii",
+  "type": "HTTP_POLL",
+  "url": "http://localhost:5173/createSensor",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T07:27:25.568Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T07:27:25.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698db19c288df962e16ca739"
+  },
+  "name": "daasdfasdfq1223",
+  "sensorCode": "adsf1231rtera",
+  "type": "MANUAL_UPLOAD",
+  "url": "",
+  "status": true,
+  "createdAt": {
+    "$date": "2026-02-12T10:55:24.087Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-12T10:55:24.087Z"
+  },
+  "__v": 0
+}]
