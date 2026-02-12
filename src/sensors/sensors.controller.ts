@@ -40,8 +40,13 @@ export class SensorsController {
     return this.sensorsService.remove(id);
   }
 
-  @Post(':id/ingest')
+  @Get(':id/ingest')
   async ingest(@Param('id') id: string) {
     return this.sensorsService.ingestNow(id);
+  }
+
+  @Get(':id/ingestions')
+  async findAllSensorIngestions(@Param('id') sensorId: string) {
+    return this.sensorsService.findAllSensorIngestions(sensorId);
   }
 }

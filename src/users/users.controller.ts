@@ -65,4 +65,14 @@ export class UsersController {
       user: payload,
     };
   }
+
+  // passthrough nest handle return the response
+  @Get('logout')
+  logout(@Res({ passthrough: true }) response: Response) {
+    response.clearCookie('token', {
+      httpOnly: true,
+    });
+
+    return { message: 'Logged out successfully' };
+  }
 }

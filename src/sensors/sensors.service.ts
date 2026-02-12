@@ -74,29 +74,28 @@ export class SensorsService {
 
     if (sensor.type === 'HTTP_POLL') {
       try {
-        // const data = [{"sensorCode":"TEMP-001","ts":"2026-01-30T10:00:00Z","valueC":21.4}];
-        const data = {
-          deviceId: '12311231223',
-          data: [
-            { time: 1706600000, temp: 21.4 },
-            { time: 1706600000, temp: 21.4 },
-          ],
-        };
+        const data = [
+          {
+            sensorCode: '12311231223',
+            ts: '2026-01-30T10:00:00Z',
+            valueC: 21.4,
+          },
+          {
+            sensorCode: '12311231223',
+            ts: '2026-01-30T10:00:00Z',
+            valueC: 26,
+          },
+        ];
+        // const data = {
+        //   deviceId: 'sensoerne12wcod1e12123',
+        //   data: [
+        //     { time: 1706600000, temp: 21.4 },
+        //     { time: 1706600000, temp: 21.4 },
+        //   ],
+        // };
         const tempData: [] = this.getTempData(sensor, data);
 
         console.log(tempData);
-
-        // // 3️⃣ Guardar temperaturas
-        // let inserted = 0;
-
-        // for (const reading of readings) {
-        //   try {
-        //     await this.temperatureModel.create(reading);
-        //     inserted++;
-        //   } catch {
-        //     // ignorar duplicados
-        //   }
-        // }
 
         tempData.forEach(async (temp) => {
           await this.temperatureModel.create(temp);
@@ -147,5 +146,9 @@ export class SensorsService {
       }));
     }
     return tempData;
+  }
+
+  findAllSensorIngestions(sensorId: string) {
+    return this.ingestionRunModel.find({ sensorId }).sort({ ts: -1 });
   }
 }
