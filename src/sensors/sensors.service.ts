@@ -158,7 +158,10 @@ export class SensorsService {
     return tempData;
   }
 
-  findAllSensorIngestions(sensorId: string) {
-    return this.ingestionRunModel.find({ sensorId }).sort({ ts: -1 });
+  findAllSensorIngestions(sensorId: string, limit: number) {
+    return this.ingestionRunModel
+      .find({ sensorId })
+      .sort({ ts: -1 })
+      .limit(limit);
   }
 }

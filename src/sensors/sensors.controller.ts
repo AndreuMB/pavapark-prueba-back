@@ -6,6 +6,7 @@ import {
   Patch,
   Param,
   Delete,
+  Query,
 } from '@nestjs/common';
 import { SensorsService } from './sensors.service';
 import { CreateSensorDto } from './dto/create-sensor.dto';
@@ -46,7 +47,10 @@ export class SensorsController {
   }
 
   @Get(':id/ingestions')
-  async findAllSensorIngestions(@Param('id') sensorId: string) {
-    return this.sensorsService.findAllSensorIngestions(sensorId);
+  async findAllSensorIngestions(
+    @Param('id') sensorId: string,
+    @Query('limit') limit: number,
+  ) {
+    return this.sensorsService.findAllSensorIngestions(sensorId, limit);
   }
 }
