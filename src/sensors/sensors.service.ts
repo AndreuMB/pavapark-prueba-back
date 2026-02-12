@@ -74,25 +74,25 @@ export class SensorsService {
 
     if (sensor.type === 'HTTP_POLL') {
       try {
-        const data = [
-          {
-            sensorCode: '12311231223',
-            ts: '2026-01-30T10:00:00Z',
-            valueC: 21.4,
-          },
-          {
-            sensorCode: '12311231223',
-            ts: '2026-01-30T10:00:00Z',
-            valueC: 26,
-          },
-        ];
-        // const data = {
-        //   deviceId: 'sensoerne12wcod1e12123',
-        //   data: [
-        //     { time: 1706600000, temp: 21.4 },
-        //     { time: 1706600000, temp: 21.4 },
-        //   ],
-        // };
+        // const data = [
+        //   {
+        //     sensorCode: '698d80c1dc6c175639f6a0a0',
+        //     ts: '2026-01-30T10:00:00Z',
+        //     valueC: 21.4,
+        //   },
+        //   {
+        //     sensorCode: '698d80c1dc6c175639f6a0a0',
+        //     ts: '2026-01-30T10:00:00Z',
+        //     valueC: 26,
+        //   },
+        // ];
+        const data = {
+          deviceId: '698d80c1dc6c175639f6a0a0',
+          data: [
+            { time: 1706600000, temp: 21.4 },
+            { time: 1706600000, temp: 21.4 },
+          ],
+        };
         const tempData: [] = this.getTempData(sensor, data);
 
         console.log(tempData);
@@ -119,11 +119,13 @@ export class SensorsService {
   }
 
   getTempData(sensor: Sensor, data) {
+    console.log(sensor._id.toString());
+
     let tempData;
     // FORMATO A
     if (Array.isArray(data)) {
       tempData = data.map((item) => {
-        if (item.sensorCode !== sensor.sensorCode)
+        if (item.sensorCode !== sensor._id.toString())
           throw new Error('Sensor code mismatch');
 
         return {
@@ -136,7 +138,7 @@ export class SensorsService {
 
     // FORMATO B
     if (data.deviceId) {
-      if (data.deviceId !== sensor.sensorCode)
+      if (data.deviceId !== sensor._id.toString())
         throw new Error('Sensor code mismatch');
 
       tempData = data.data.map((item) => ({
